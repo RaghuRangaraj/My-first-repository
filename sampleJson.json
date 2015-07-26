@@ -1,0 +1,14 @@
+{
+    "root": {
+        "child1": {
+            "child11": "child11"
+        },
+        "child2": {
+            "child21": "child21",
+            "child22": "child22"
+        },
+        "child3": {
+            "child31": "child31"
+        }
+    }
+}
